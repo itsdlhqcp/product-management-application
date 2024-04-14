@@ -44,8 +44,8 @@ Thymeleaf Integration: Utilize Thymeleaf as the template engine for server-side 
 
 
 
-## Additional Resources:
+## Additional Resources
 
- -[Spring Boot Documentations](https://spring.io/projects/spring-boot)
- -[Spring Boot Documentations](https://docs.spring.io/spring-framework/reference/)
- -[Thymeleaf Documentation](https://www.thymeleaf.org/documentation.html)
+- [Spring Boot Documentations](https://spring.io/projects/spring-boot)
+- [Spring Framework Documentations](https://docs.spring.io/spring-framework/reference/)
+- [Thymeleaf Documentation](https://www.thymeleaf.org/documentation.html)
