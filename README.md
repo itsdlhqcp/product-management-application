@@ -8,9 +8,4 @@ This repository contains a web application built with Java, utilizing Spring Boo
 ![Screenshot 2024-03-28 200317](https://github.com/itsdlhqcp/product-management-application/assets/95963252/894a8cbd-f49d-4b33-8f6d-d9dbd606758b)
 
 
-```bash
-python==3.11
-```
-```javascript
-// Your code here
-```
+
